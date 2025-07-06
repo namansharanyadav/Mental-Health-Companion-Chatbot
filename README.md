@@ -13,8 +13,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Vikranth3140/Mental-Health-Support-Chatbot.git
-cd Mental-Health-Support-Chatbot
+git clone (https://github.com/namansharanyadav/Mental-Health-Companion-Chatbot.git)
+
 
 Create a virtual environment and activate it:
 
